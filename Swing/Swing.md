@@ -22,8 +22,12 @@ GUI一般在事件调度线程上创建，使用SwingUtilities类定义的两个
 	invokeAndWait();
 三：常用组件
 ============
-1，
+1，Swing按钮
 -------
+	JButton
+	JToggleButton
+	JCheckBox
+	JRadioButton
 2
 --------
 3
@@ -34,8 +38,70 @@ GUI一般在事件调度线程上创建，使用SwingUtilities类定义的两个
 ----------
 四：布局管理器
 ============
-1
+1 FlowLayout 
 -----------
-2
-------------
 	
+2 BoardLayout
+------------
+3 GridLayout
+--------------
+4 GridBagLayout
+---------------
+5 SpringLayout
+--------------	
+五：事件
+========
+	ActionEvent--------------------------------------ActionListen
+
+	AdjustmentEvent----------------------------------AdjustmentListener
+
+	FocusEvent---------------------------------------FocusListener
+
+	ItemEvent-----------------------------------------ItemListener
+
+	KeyEvent------------------------------------------KeyListener
+
+	MouseEvent-----------------------------------------MouseListener 和 MouseMotionListener
+
+	MouseWheelEvent------------------------------------MouseWheelListener
+
+	AncestorEvent	---------------------------------
+
+	CaretEvent	--------------------------------
+
+	ChangeEvent	--------------------------------
+
+	HyperlinkEvent	-----------------------------
+
+	InternalFrameEvent---------------------------
+	
+	ListDataEvent	---------------------------
+
+	ListSelectionEvent	---------------------------
+
+	MenuDragMouseEvent	---------------------------
+
+	MenuEvent	---------------------------
+
+	MenuKeyEvent	---------------------------
+
+	MouseInputAdapter	---------------------------
+
+	PopupMenuEvent	---------------------------
+
+	RowSorterEvent	---------------------------
+
+	TableColumnModelEvent	---------------------------
+
+	TableModelEvent	---------------------------
+
+	TreeExpansionEvent	---------------------------
+
+	TreeModelEvent	---------------------------
+
+	TreeSelectionEvent	---------------------------
+
+	UndoableEditEvent---------------------------
+
+适配器类
+===========
