@@ -38,7 +38,8 @@ GUI一般在事件调度线程上创建，使用SwingUtilities类定义的两个
 	 public int getIconWidth()
 	 public void paintIcon(Component arg0, Graphics arg1, int arg2, int arg3)
 	2、利用 javax.swing.ImageIcon 类根据现有图片创建图标
-4
+4  菜单栏
+JButton
 ----------
 5
 ----------
