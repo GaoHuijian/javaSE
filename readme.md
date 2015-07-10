@@ -32,21 +32,23 @@ JavaSE为Java标准版。
 -------------------
 3.3 异常处理
 -------------------
-3.4 Swing
+3.4 [Swing](https://github.com/GaoHuijian/javaSE/Swing/Swing.md)
 ------------------
 3.5 集合类
 ------------------
-3.6 I/O
+3.6 [I/O](https://github.com/GaoHuijian/javaSE/Io/io.md)
 ------------------
-3.7 反射
+3.7 [反射](https://github.com/GaoHuijian/javaSE/reflect/reflect.md)
 ------------------
-3.8 枚举 泛型
+3.8 [注解](https://github.com/GaoHuijian/javaSE/annotation/annotation.md)
+------------------------
+3.9 枚举 泛型
 -------------------
-3.9 多线程
+3.10 [多线程](https://github.com/GaoHuijian/javaSE/Thread/thread.md)
 ----------------------
-3.10 网络通信
+3.11 [网络通信](https://github.com/GaoHuijian/javaSE/Internet/Internet.md)
 -------------------------
-3.11 数据库操作
+3.12 [数据库操作](https://github.com/GaoHuijian/javaSE/Database/sql.md)
 --------------------------
 
 4 高级应用
@@ -57,7 +59,7 @@ JavaSE为Java标准版。
 ------------------------
 4.3 高级事件处理
 ---------------------------
-4.4 绘图
+4.4 绘图/2D
 ----------------------------
 4.5 打印
 -----------------------------
