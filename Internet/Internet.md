@@ -21,4 +21,5 @@ OutputStream
 UDP/IP </b>
 
 
-
+3、交互
+![](https://github.com/GaoHuijian/javaSE/blob/master/Internet/images/socket.png)
