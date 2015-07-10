@@ -32,22 +32,23 @@ JavaSE为Java标准版。
 -------------------
 3.3 异常处理
 -------------------
-3.4 [Swing](https://github.com/GaoHuijian/javaSE/blob/mastert/Swing/Swing.md)
+3.4 [Swing](https://github.com/GaoHuijian/javaSE/blob/master/Swing/Swing.md)
 ------------------
 3.5 集合类
 ------------------
-3.6 [I/O](https://github.com/GaoHuijian/javaSE/blob/mastert/Io/io.md)
+3.6 [I/O](https://github.com/GaoHuijian/javaSE/blob/master/Io/io.md)
 ------------------
-3.7 [反射](https://github.com/GaoHuijian/javaSE/blob/mastert/reflect/reflect.md)
+3.7 [反射](https://github.com/GaoHuijian/javaSE/blob/master/reflect/reflect.md)
 ------------------
-3.8 [注解](https://github.com/GaoHuijian/javaSE/blob/mastert/annotation/annotation.md)
+3.8 [注解](https://github.com/GaoHuijian/javaSE/blob/master/annotation/annotation.md)
 ------------------------
 3.9 枚举 泛型
 -------------------
-3.10 [多线程](https://github.com/GaoHuijian/javaSE/blob/mastert/Thread/thread.md)
+3.10 [多线程](https://github.com/GaoHuijian/javaSE/blob/master/Thread/thread.md)
 ----------------------
-3.11 [网络通信](https://github.com/GaoHuijian/javaSE/blob/mastert/Internet/Internet.md)
+3.11 [网络通信](https://github.com/GaoHuijian/javaSE/blob/master/Internet/Internet.md)
 -------------------------
+3.12 [数据库操作](https://github.com/GaoHuijian/javaSE/blob/master/Database/sql.md)
 --------------------------
 
 4 高级应用
