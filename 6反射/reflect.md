@@ -15,8 +15,7 @@ java反射
 
 主要反射类
 =========
-	AccessibleObject
-	
+	AccessibleObject	
 	Executable
 	Field
 	Array
@@ -26,3 +25,21 @@ java反射
 	Parameter
 	Proxy
 	ReflectPermission
+反射过程
+======
+1,获取Class的不同方式
+
+* 获取引用类型的class 
+
+		1,引用类型.class,例如String.class
+		2,Class.forname()
+		3,
+
+* 获取基本类型的class
+		
+		1,基本类型.class
+		2,包装器类型.TYPE
+* 通过反射机制修改属性值,取得对象的属性,
+
+通过Array动态的使用数组
+=====================
